@@ -1,0 +1,11 @@
+.animal {  
+  padding: 5px;
+  margin-top: 10px;
+  background-color: #eee;
+  border: 1px solid #aaa;
+  width: 200px;
+}
+
+.animal a {
+  margin-left: 5px;
+}
