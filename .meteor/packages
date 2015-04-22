@@ -8,3 +8,5 @@ meteor-platform
 iron:router
 twbs:bootstrap
 msavin:mongol
+peppelg:bootstrap-3-modal
+mrt:jquery-ui
